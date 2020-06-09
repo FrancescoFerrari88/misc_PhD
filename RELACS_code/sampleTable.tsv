@@ -1,0 +1,12 @@
+An example is:
+
+Sample_Lib_C838_11	ACTACT	Sample1
+Sample_Lib_C838_11	TGACTG	Sample2
+Sample_Lib_C838_11	default	Sample3
+
+The "Illumina sample" column corresponds to a directory with fastq files, as produced by bcl2fastq2.
+
+Any observed barcode that does not match a barcode listed in the file (with a possible mismatch of 1) will be written to the sample specified by 'default'. Note that all barcodes must be of the same length.
+
+This script must be run in directory containing subdirectories each having fastq files. This is the default structure output by bcl2fastq2 and our internal demultiplexing pipeline.
+""")

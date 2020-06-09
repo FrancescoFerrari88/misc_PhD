@@ -1,0 +1,5 @@
+mark	condition	rep	file_path
+H3K27ac	Ctr	rep1	/data/manke/group/ferrari/PhD_project/reference_datasets/FOXG1_project/RELACS_inVitroHippo/output_snakepipes/filtered_bam/hippoN_Ctr_H3K27ac_rep1.filtered.bam
+H3K27ac	Ctr	rep2	/data/manke/group/ferrari/PhD_project/reference_datasets/FOXG1_project/RELACS_inVitroHippo/output_snakepipes/filtered_bam/hippoN_Ctr_H3K27ac_rep2.filtered.bam
+H3K27ac	Foxg1KD	rep1	/data/manke/group/ferrari/PhD_project/reference_datasets/FOXG1_project/RELACS_inVitroHippo/output_snakepipes/filtered_bam/hippoN_Foxg1KD_H3K27ac_rep1.filtered.bam
+H3K27ac	Foxg1KD	rep2	/data/manke/group/ferrari/PhD_project/reference_datasets/FOXG1_project/RELACS_inVitroHippo/output_snakepipes/filtered_bam/hippoN_Foxg1KD_H3K27ac_rep2.filtered.bam
